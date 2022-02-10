@@ -4,4 +4,4 @@
 
 <img align="center" src="assets/images/captura.png">
 </br></br>
-<h2 align="center">Thanks! Obrigada ^^</h2>
+<h3 align="center">Thanks! Obrigada ^^</h3>
