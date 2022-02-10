@@ -1,0 +1,7 @@
+# Starbucks Clone
+
+<h2> Starbucks website for css grid practice purposes. </h2>
+
+<img align="center" src="assets/images/captura.png">
+</br></br>
+<h2 align="center">Thanks! Obrigada ^^</h2>
