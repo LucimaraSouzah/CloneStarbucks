@@ -1,9 +1,8 @@
 # Starbucks Clone
-
-<h2> Starbucks website for css grid practice purposes. </h2>
+<h3>Site da Starbucks para práticar CSS grid. Starbucks website for css grid practice purposes. </h3>
 
 <p align="center">
-<img src="assets/images/captura.png">
+https://lucimarasouzah.github.io/CloneStarbucks/
 </p>
-</br></br>
+
 <h3 align="center">Thanks! Obrigada ^^</h3>
